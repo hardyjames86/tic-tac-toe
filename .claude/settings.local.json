@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Start-Process \"C:\\\\Users\\\\hardy\\\\ClaudeTest\\\\tictactoe.html\")",
+      "PowerShell(gh auth *)",
+      "PowerShell(winget install *)",
+      "PowerShell(gh *)",
+      "PowerShell(git *)",
+      "PowerShell(gh repo *)",
+      "PowerShell(Test-Path *)",
+      "PowerShell(gh config *)",
+      "Skill(update-config)"
+    ]
+  }
+}
